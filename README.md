@@ -1,45 +1,43 @@
-### David Fall
+# David Fall
 
-I’m a senior Computer Engineering student at Purdue University, passionate about building high‑impact software and hardware systems. I thrive on solving hard technical problems with creativity and autonomy, including designing AI‑powered platforms, architecting embedded firmware, and leading full‑stack projects.
+**Computer Engineer & Full-Stack Developer**  
+Purdue University ’25 B.S. Computer Engineering
+
+I build end-to-end hardware + software systems: everything from embedded firmware on STM32 and ESP32 to AI-driven web and mobile apps. I thrive on solving hard technical challenges with creativity, autonomy, and a laser focus on shipping.
 
 ---
 
-## Current Projects
+## 🚀 Current Work
 
 - **[Vulu](https://vulu.app)**  
-  Lead Engineer & Founder of a fitness‑focused social app with real‑time messaging and AI‑driven content recommendations.
+  Lead Engineer & Founder of a fitness-focused social app with real-time chat, recipe/workout posts, and AI-powered content recommendations (CLIP embeddings).
 
-- **[Enlytn](https://enlytn.app)** (MVP in progress) 
-  Developing an AI‑powered education platform that dynamically generates modular courses via LLMs (launch planned Summer 2025).
+- **[Enlytn](https://enlytn.app)**  
+  Deployed AI-powered course generator: users get custom modular lessons, quizzes, and diagrams in under 30 s via OpenAI API. (Next.js · Express · MongoDB · AWS · RTK Query)
 
-- **[Embedded Skee Ball](https://github.com/dfall33/ece477-skee-ball)**  
-  Team Lead on an accessible, fully electronic skee‑ball machine (STM32 firmware, custom PCB, mechanical design).
+- **Motion-Activated Photo Box**  
+  My personal gift project: a 3D-printed enclosure hosting an ESP32-driven TFT display and MPU6050 sensor that flips photos on shake.  
+  → [github.com/dfall33/picture-box](https://github.com/dfall33/picture-box)
 
----
-
-## Featured Repositories
-
-<!-- Use GitHub’s “Pinned repositories” feature to surface these -->
-- `enlytn` — Next.js/Express AI course generator using OpenAI API  
-- `ece477-skee-ball` Purdue Senior Design — STM32‑driven electronic skee‑ball machine firmware and PCB designs  
+- **Embedded Skee-Ball Machine**  
+  Team lead on an accessible, fully electronic skee-ball prototype (capstone): STM32 firmware, custom PCB in KiCad, motor/sensor integration for real-time score display.  
+  → [github.com/dfall33/ece477-skee-ball](https://github.com/dfall33/ece477-skee-ball)
 
 ---
 
-## Tech Stack & Skills
+## 🛠 Tech Stack
 
-**Languages:** Python · C · C++ · JavaScript · Assembly  
-**Frameworks & Libraries:** React · Node.js · Express · TensorFlow · PyTorch · scikit‑learn · Pandas · NumPy  
-**Databases:** MongoDB · PostgreSQL · SQLite  
-**Systems & Embedded:** RISC‑V · Verilog · STM32 · KiCad · CAN/CANoe
-**Cloud & DevOps:** AWS (EC2, Lambda, S3) · GitHub Actions · Docker  
-**Tools:** Git · REST APIs · Figma (UI/UX)  
+**Languages:** Python · C · C++ · JavaScript · TypeScript · Assembly  
+**Frontend:** React · Next.js · Tailwind CSS · RTK Query  
+**Backend:** Node.js · Express · MongoDB · PostgreSQL · REST APIs  
+**Embedded & Hardware:** ESP32 (MicroPython) · STM32 (C) · KiCad · FreeCAD · 3D Printing  
+**AI & Data:** OpenAI API · TensorFlow · PyTorch · scikit-learn · NumPy · Pandas  
+**DevOps & Cloud:** AWS (EC2, S3, Lambda) · Docker · GitHub Actions  
 
 ---
 
-## Let’s Connect
+## 📬 Let’s Connect
 
-- Portfolio: [davidfall.dev](https://davidfall.dev)  
-- LinkedIn: [linkedin.com/in/david-fall3](https://linkedin.com/in/david-fall3)  
-- Email: david.c.fall33@gmail.com  
-
-> “I build scalable full‑stack and embedded systems to solve real problems—always learning and shipping.”  
+- 🌐 Portfolio: [davidfall.dev](https://davidfall.dev)  
+- 🔗 LinkedIn: [linkedin.com/in/david-fall3](https://linkedin.com/in/david-fall3)  
+- ✉️ Email: david.c.fall33@gmail.com  
